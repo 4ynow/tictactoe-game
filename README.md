@@ -7,7 +7,6 @@ A command-line Tic‑Tac‑Toe game with an unbeatable AI using the minimax algo
 
 ## Features
 
-- Two‑player mode (human vs. human)
 - Play against the computer (AI with minimax)
 - Simple text‑based board display
 
